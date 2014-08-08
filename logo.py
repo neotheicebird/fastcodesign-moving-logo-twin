@@ -1,5 +1,6 @@
 """Animate a moving polygon similar to fast codesign logo"""
 import random
+import itertools
 
 NUM_VERTICES = 4
 
@@ -18,16 +19,23 @@ class polygon3D(object):
     def __init__(self):
         self.vertices = self.random_vertices(NUM_VERTICES)
 
-    #def Angular_move(self):
+    #def angular_move(self, rzx = 0, rxy = 0):
 
 class map_to_2D(object):
     """gets a frame of the 3D object and projects it on to a 2D screen.
        compute and arrange points according to how the edges will be plotted"""
-    def __init__(self):
-        polygon = polygon3D()
 
-    def find_edges(self, points):
-        """compute all edges in such a way that theu can be drawn continuously (like in air, repeated edges is ok)"""
+    def __init__(self):
+        self.polygon = polygon3D()
+
+    def find_edges(self):
+        """(generator) compute all edges in such a way that they can be drawn continuously
+        (like on paper without taking the pen from it, repeated edges is ok (minimize it too))"""
+
+        points = self.polygon.vertices
+        edges = itertools.combinations(points, 2)
+
+        return list(edges)
 
 
     def map_to_xy(self):
@@ -36,4 +44,13 @@ class map_to_2D(object):
 
 class Animate_logo(object):
     """gets a 2D map of the logo, links the points and updates frames of the animator object"""
-    pass
+    def __init__(self):
+        self.animated = map_to_2D()
+        print "Len: ", len(self.animated.find_edges()), self.animated.find_edges()
+
+
+def main():
+    Animate_logo()
+
+if __name__ == "__main__":
+    main()
