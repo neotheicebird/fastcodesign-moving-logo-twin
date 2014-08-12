@@ -4,7 +4,10 @@ import itertools
 from matplotlib import pyplot as plt
 from matplotlib import animation
 
-NUM_VERTICES = 4
+import numpy as np
+
+NUM_VERTICES = 5
+
 
 class polygon3D(object):
     """initialize and update frames that will be fetched by other classes"""
@@ -20,9 +23,56 @@ class polygon3D(object):
 
     def __init__(self):
         self.vertices = self.random_vertices(NUM_VERTICES)
+        self.move_centroid_to_zero()
+
+    def move_centroid_to_zero(self):
+        """Move the centroid of the polygon to (0,0,0)
+        """
+        # TODO Applying a simple centre finding formula, check it
+        x_mid = 0
+        y_mid = 0
+        z_mid = 0
+        for x, y, z in self.vertices:
+            x_mid += x**2
+            y_mid += y**2
+            z_mid += z**2
+        x_mid = np.sqrt(x_mid)
+        y_mid = np.sqrt(y_mid)
+        z_mid = np.sqrt(z_mid)
+
+        n = len(self.vertices)
+        x_mid = float(x_mid / n)
+        y_mid = float(y_mid / n)
+        z_mid = float(z_mid / n)
+
+        new_vertices = []
+        for x, y, z in self.vertices:
+            x_new = x - x_mid
+            y_new = y - y_mid
+            z_new = z - z_mid
+            new_vertices.append((x_new, y_new, z_new))
+
+        self.vertices = new_vertices
 
     def angular_move(self, rzx = 0, rxy = 0):
         """ create a rotation matrix and use the angle/frame found to rotate each point"""
+        new_vertices = []
+
+        # Rotation ZX plane
+        beta = float(rzx / 5)  # TODO the 5 is some dummy number, change it
+        gamma = float(rxy / 5)
+        for x, y, z in self.vertices:
+            x_new_zx = np.cos(beta)*x - np.sin(beta)*z
+            y_new_zx = y
+            z_new_zx = np.sin(beta)*x + np.cos(beta)*z
+
+            x_new_xy = np.cos(gamma)*x_new_zx + np.sin(gamma)*y_new_zx
+            y_new_xy = -np.sin(gamma)*x_new_zx + np.cos(gamma)*y_new_zx
+            z_new_xy = z_new_zx
+
+            new_vertices.append((x_new_xy, y_new_xy, z_new_xy))
+
+        self.vertices = new_vertices
 
 
 class map_to_2D(object):
@@ -47,9 +97,10 @@ class map_to_2D(object):
         self.polygon.edges = self.find_edges()
         vertices_on_xy = [((x1, y1), (x2, y2)) for (x1, y1, z1), (x2, y2, z2) in self.polygon.edges]
         #print "Vertices on XY plane: ", vertices_on_xy
+
+        self.polygon.angular_move(rzx=0.25, rxy=0.25)  # TODO find if this line should come here, if so can we rename the func
+
         return vertices_on_xy
-
-
 
 
 class Animate_logo(object):
@@ -64,9 +115,16 @@ class Animate_logo(object):
         self.fig = plt.figure()
         self.ax = plt.axes(xlim=(0, 2), ylim=(-2, 2))
         self.line, = self.ax.plot([], [], lw=2)
-        self.line.set_data([], [])
 
-    def animate(self):
+        # set x, y limits
+        self.ax.set_xlim([-10, 20])
+        self.ax.set_ylim([-10, 20])
+
+    def init_anim(self):
+        self.line.set_data([], [])
+        return self.line,
+
+    def animate(self, i):
         """
         anim = animation.FuncAnimation(fig, animate, init_func=init,
                                frames=100, interval=20, blit=True)
@@ -81,11 +139,39 @@ class Animate_logo(object):
         plt.show()
 
         """
-        pass
+        vertices = self.animated.map_to_xy()
+        print vertices
+        x = []
+        y = []
+        for A, B in vertices:
+            x.append(A[0])
+            y.append(A[1])
+            x.append(B[0])
+            y.append(B[1])
+        print x
+        print y
+
+        self.line.set_data(x, y)
+        return self.line,
+
+    def dummy_animate(self, i):
+        x = np.linspace(0, 2, 1000)
+        y = np.sin(2 * np.pi * (x - 0.01 * i))
+        self.line.set_data(x, y)
+        return self.line,
+
+    def run(self):
+        self.animate(1)
+        self.animate(1)
+        self.animate(1)
+        self.anim = animation.FuncAnimation(self.fig, self.animate, init_func=self.init_anim,
+                               frames=100, interval=20, blit=True)
+        plt.show()
 
 
 def main():
-    Animate_logo()
+    animator = Animate_logo()
+    animator.run()
 
 if __name__ == "__main__":
     main()
