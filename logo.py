@@ -193,11 +193,13 @@ class Animate_logo(object):
         return self.line,
 
     def run(self):
-        self.animate(1)
-        self.animate(1)
-        self.animate(1)
+        #self.animate(1)
+        #self.animate(1)
+        #self.animate(1)
         self.anim = animation.FuncAnimation(self.fig, self.animate, init_func=self.init_anim,
                                frames=100, interval=FRAME_INTERVAL_MS, blit=True)
+
+        plt.axis('off') # switches off the axis lines and legends
         plt.show()
 
     def save_gif(self):
