@@ -6,9 +6,15 @@ from matplotlib import animation
 
 import numpy as np
 
+#CONSTANTS
 NUM_VERTICES = 5
 TICKS_PER_SECOND = 2 * (10**6)
 FRAME_INTERVAL_MS = TICKS_PER_SECOND * 10 ** -5
+
+NPOINTS = 10
+COLOR = 'blue'
+RESFACT = 10
+MAP = 'winter'  # choose carefully, or color transitions will not appear smoooth
 
 
 # TODO Add GIF module
@@ -143,11 +149,13 @@ class Animate_logo(object):
     def init_canvas(self):
         self.fig = plt.figure()
         self.ax = plt.axes(xlim=(0, 2), ylim=(-2, 2))
+
         self.line, = self.ax.plot([], [], lw=2)
 
         # set x, y limits
         self.ax.set_xlim([-8, 8])
         self.ax.set_ylim([-8, 8])
+
 
     def init_anim(self):
         self.line.set_data([], [])
@@ -178,8 +186,6 @@ class Animate_logo(object):
             y.append(A[1])
             x.append(B[0])
             y.append(B[1])
-        #print x
-        #print y
 
         self.line.set_data(x, y)
         return self.line,
@@ -199,7 +205,7 @@ class Animate_logo(object):
         self.anim = animation.FuncAnimation(self.fig, self.animate, init_func=self.init_anim,
                                frames=100, interval=FRAME_INTERVAL_MS, blit=True)
 
-        plt.axis('off') # switches off the axis lines and legends
+        #plt.axis('off') # switches off the axis lines and legends
         plt.show()
 
     def save_gif(self):
