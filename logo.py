@@ -187,6 +187,7 @@ class Animate_logo(object):
             x.append(B[0])
             y.append(B[1])
 
+        x, y = self.segmenter(x, y)
         self.line.set_data(x, y)
         return self.line,
 
@@ -198,10 +199,24 @@ class Animate_logo(object):
         self.line.set_data(x, y)
         return self.line,
 
+    def segmenter(self, x, y, N=20):
+        """Takes consecutive (x, y) points and creates N points inbetween them"""
+        x1 = x[0]
+        y1 = y[0]
+        x = x[1:]
+        y = y[1:]
+        x_segmented = []
+        y_segmented = []
+        for x2, y2 in zip(x, y):
+            x_incr = float((x2 - x1) / (N-1))
+            y_incr = float((y2 - y1) / (N-1))
+            x_segmented.extend([x1 + x_incr*i for i in range(N)])
+            y_segmented.extend([y1 + y_incr*i for i in range(N)])
+            x1 = x2
+            y1 = y2
+        return (x_segmented, y_segmented)
+
     def run(self):
-        #self.animate(1)
-        #self.animate(1)
-        #self.animate(1)
         self.anim = animation.FuncAnimation(self.fig, self.animate, init_func=self.init_anim,
                                frames=100, interval=FRAME_INTERVAL_MS, blit=True)
 
