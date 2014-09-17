@@ -3,12 +3,16 @@ import random
 import itertools
 from matplotlib import pyplot as plt
 from matplotlib import animation
+#from JSAnimation import HTMLWriter
+from JSAnimation.JSAnimation.html_writer import HTMLWriter
+#import HTMLWriter
 
 import numpy as np
 
 NUM_VERTICES = 5
-TICKS_PER_SECOND = 2 * (10**6)
-FRAME_INTERVAL_MS = TICKS_PER_SECOND * 10 ** -5
+#TICKS_PER_SECOND = 2 * (10**6)
+#FRAME_INTERVAL_MS = TICKS_PER_SECOND * 10 ** -5
+FRAME_INTERVAL_MS = 20.0
 
 
 # TODO Add GIF module
@@ -83,7 +87,7 @@ class polygon3D(object):
         gamma = rxy * float(FRAME_INTERVAL_MS / 1000)
         alpha = ryz * float(FRAME_INTERVAL_MS / 1000)
 
-        print alpha, beta, gamma
+        #print alpha, beta, gamma
         for x, y, z in self.vertices:
             x_new_zx = np.cos(beta)*x - np.sin(beta)*z
             y_new_zx = y
@@ -129,7 +133,7 @@ class map_to_2D(object):
 
     def rotate_polygon(self):
         """This function triggers the angular_move() of the polygon class"""
-        self.polygon.angular_move(rzx=15, rxy=15, ryz=-15)
+        self.polygon.angular_move(rzx=45, rxy=45, ryz=-45)
 
 
 class Animate_logo(object):
@@ -148,6 +152,9 @@ class Animate_logo(object):
         # set x, y limits
         self.ax.set_xlim([-8, 8])
         self.ax.set_ylim([-8, 8])
+
+        plt.axis('off')
+        self.ax.patch.set_visible(False)
 
     def init_anim(self):
         self.line.set_data([], [])
@@ -193,18 +200,22 @@ class Animate_logo(object):
         return self.line,
 
     def run(self):
-        self.animate(1)
-        self.animate(1)
-        self.animate(1)
         self.anim = animation.FuncAnimation(self.fig, self.animate, init_func=self.init_anim,
-                               frames=100, interval=FRAME_INTERVAL_MS, blit=True)
+                               frames=240, interval=FRAME_INTERVAL_MS, blit=True)
+        self.save_HTML()
         plt.show()
+        #self.save_gif()
 
     def save_gif(self):
         """Save an animation as gif
         """
         # TODO make sure to save only 360 degrees worth of data - What does it mean?
         self.anim.save('demoanimation.gif', writer='imagemagick', fps=4)
+
+    def save_HTML(self, htmlfilename = 'rotating_polygon.html'):
+        # set embed_frames=True to embed base64-encoded frames directly in the HTML
+        self.anim.save(htmlfilename, writer=HTMLWriter(embed_frames=True))
+
 
 
 def main():
