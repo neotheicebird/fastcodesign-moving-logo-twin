@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-<<<<<<< HEAD
-    <list default="true" id="8c7ed0f1-1d75-4e36-841f-82a97e660ac8" name="Default" comment="" />
-    <ignored path="fastcodesignlogo.iws" />
-=======
-    <list default="true" id="f57cb2ee-f588-45b4-a645-5c93fc27b519" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logo.py" afterPath="$PROJECT_DIR$/logo.py" />
+    <list default="true" id="d97993f4-23de-4105-818c-a23165e7cab8" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
-    <ignored path="fastcodesign-moving-logo-twin.iws" />
->>>>>>> 1c95269c8e025f35a3cb194f7f4300f25e64c924
+    <ignored path="&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,161 +21,24 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-<<<<<<< HEAD
-    <favorites_list name="fastcodesignlogo" />
-=======
-    <favorites_list name="fastcodesign-moving-logo-twin" />
->>>>>>> 1c95269c8e025f35a3cb194f7f4300f25e64c924
+    <favorites_list name="&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="logo.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/logo.py">
-          <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-            <state line="209" column="32" selection-start="6884" selection-end="6884" vertical-scroll-proportion="0.13163064" vertical-offset="2585" max-vertical-offset="3094">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gradient_1.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gradient_1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="24" selection-start="474" selection-end="474" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="702">
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-=======
-            <state line="214" column="56" selection-start="7233" selection-end="7233" vertical-scroll-proportion="0.5179856" vertical-offset="3422" max-vertical-offset="3927">
-              <folding>
-                <element signature="e#61#74#0" expanded="true" />
->>>>>>> 1c95269c8e025f35a3cb194f7f4300f25e64c924
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-<<<<<<< HEAD
-      <file leaf-file-name="pyplot.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://C:/Python27/Lib/site-packages/matplotlib/pyplot.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1021" column="0" selection-start="32295" selection-end="32295" vertical-scroll-proportion="0.0" vertical-offset="13273" max-vertical-offset="47827">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="multi_color_in_line.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/multi_color_in_line.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="87" column="15" selection-start="2797" selection-end="2797" vertical-scroll-proportion="0.0" vertical-offset="1131" max-vertical-offset="1612">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="color_cycle.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/color_cycle.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="73" selection-start="242" selection-end="242" vertical-scroll-proportion="0.0" vertical-offset="117" max-vertical-offset="273">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="another_multi_color_line_algo.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/another_multi_color_line_algo.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="17" selection-start="1100" selection-end="1100" vertical-scroll-proportion="0.0" vertical-offset="580" max-vertical-offset="1300">
-              <folding>
-                <marker date="1409266264283" expanded="true" signature="2273:2708" placeholder="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="try_JS_animate.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/try_JS_animate.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="26" selection-start="60" selection-end="60" vertical-scroll-proportion="0.0" vertical-offset="26" max-vertical-offset="104">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="multi_colors_in_single_line.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/multi_colors_in_single_line.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="87" column="41" selection-start="2409" selection-end="2410" vertical-scroll-proportion="0.0" vertical-offset="1131" max-vertical-offset="1222">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="alien_language.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://D:/codejam/alien_language.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="9" selection-start="158" selection-end="158" vertical-scroll-proportion="0.0" vertical-offset="440" max-vertical-offset="806">
-=======
-      <file leaf-file-name="__init__.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="32" selection-start="32" selection-end="32" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="119">
->>>>>>> 1c95269c8e025f35a3cb194f7f4300f25e64c924
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
-<<<<<<< HEAD
-  <component name="IdeDocumentHistory">
-    <option name="changedFiles">
-      <list>
-        <option value="$PROJECT_DIR$/test_logo.py" />
-        <option value="$PROJECT_DIR$/try_JS_animate.py" />
-        <option value="$PROJECT_DIR$/multi_colors.py" />
-        <option value="$PROJECT_DIR$/multi_colors_in_single_line.py" />
-        <option value="$PROJECT_DIR$/another_multi_color_line_algo.py" />
-        <option value="$PROJECT_DIR$/multi_color_in_line.py" />
-        <option value="$PROJECT_DIR$/color_cycle.py" />
-        <option value="$PROJECT_DIR$/gradient_1.py" />
-=======
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitLogSettings">
-    <option name="myDateState">
-      <MyDateState />
-    </option>
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="changedFiles">
-      <list>
-        <option value="$PROJECT_DIR$/__init__.py" />
->>>>>>> 1c95269c8e025f35a3cb194f7f4300f25e64c924
-        <option value="$PROJECT_DIR$/logo.py" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectFrameBounds">
-<<<<<<< HEAD
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
     <option name="height" value="744" />
-=======
-    <option name="x" value="-4" />
-    <option name="y" value="-4" />
-    <option name="width" value="1374" />
-    <option name="height" value="776" />
->>>>>>> 1c95269c8e025f35a3cb194f7f4300f25e64c924
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -214,61 +71,17 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-<<<<<<< HEAD
-              <option name="myItemId" value="fastcodesignlogo" />
-=======
-              <option name="myItemId" value="fastcodesign-moving-logo-twin" />
->>>>>>> 1c95269c8e025f35a3cb194f7f4300f25e64c924
+              <option name="myItemId" value="&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-<<<<<<< HEAD
-              <option name="myItemId" value="fastcodesignlogo" />
+              <option name="myItemId" value="&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="fastcodesignlogo" />
-=======
-              <option name="myItemId" value="fastcodesign-moving-logo-twin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fastcodesign-moving-logo-twin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fastcodesign-moving-logo-twin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fastcodesign-moving-logo-twin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JSAnimation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fastcodesign-moving-logo-twin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fastcodesign-moving-logo-twin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JSAnimation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JSAnimation" />
->>>>>>> 1c95269c8e025f35a3cb194f7f4300f25e64c924
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -277,369 +90,33 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="recentsLimit" value="5" />
-    <property name="FullScreen" value="false" />
   </component>
-  <component name="PyConsoleOptionsProvider">
-    <option name="myPythonConsoleState">
-      <console-settings />
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.logo">
-    <configuration default="false" name="logo" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="fastcodesignlogo" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/logo.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PyDebugRunner" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PyDebugRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="multi_color_in_line" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="fastcodesignlogo" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/multi_color_in_line.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PyDebugRunner" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PyDebugRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="color_cycle" type="PythonConfigurationType" factoryName="Python" temporary="true">
-=======
-    <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="recentsLimit" value="5" />
-    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PythonSdkConfigurable" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JSAnimation/JSAnimation/html_writer.py" />
-    <property name="FullScreen" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="options.searchVisible" value="true" />
-  </component>
-  <component name="PyConsoleOptionsProvider">
-    <option name="myPythonConsoleState">
-      <PyConsoleSettings />
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.logo">
-    <configuration default="false" name="make_animation" type="PythonConfigurationType" factoryName="Python" temporary="true">
->>>>>>> 1c95269c8e025f35a3cb194f7f4300f25e64c924
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-<<<<<<< HEAD
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="fastcodesignlogo" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/color_cycle.py" />
-=======
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JSAnimation" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="fastcodesign-moving-logo-twin" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JSAnimation/make_animation.py" />
->>>>>>> 1c95269c8e025f35a3cb194f7f4300f25e64c924
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-<<<<<<< HEAD
-    <configuration default="false" name="gradient_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-=======
-    <configuration default="false" name="logo" type="PythonConfigurationType" factoryName="Python" temporary="true">
->>>>>>> 1c95269c8e025f35a3cb194f7f4300f25e64c924
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-<<<<<<< HEAD
-      <module name="fastcodesignlogo" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gradient_1.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PyDebugRunner" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PyDebugRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Unittests in D:\fastcodesignlogo" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="fastcodesignlogo" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="$PROJECT_DIR$" />
-      <option name="TEST_TYPE" value="TEST_FOLDER" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-=======
-      <module name="fastcodesign-moving-logo-twin" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/logo.py" />
-      <option name="PARAMETERS" value="" />
->>>>>>> 1c95269c8e025f35a3cb194f7f4300f25e64c924
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="py.test">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-<<<<<<< HEAD
-      <module name="fastcodesignlogo" />
-=======
-      <module name="fastcodesign-moving-logo-twin" />
->>>>>>> 1c95269c8e025f35a3cb194f7f4300f25e64c924
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="testToRun" value="" />
-      <option name="keywords" value="" />
-      <option name="params" value="" />
-      <option name="USE_PARAM" value="false" />
-      <option name="USE_KEYWORD" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Nosetests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-<<<<<<< HEAD
-      <module name="fastcodesignlogo" />
-=======
-      <module name="fastcodesign-moving-logo-twin" />
->>>>>>> 1c95269c8e025f35a3cb194f7f4300f25e64c924
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-<<<<<<< HEAD
-      <module name="fastcodesignlogo" />
-=======
-      <module name="fastcodesign-moving-logo-twin" />
->>>>>>> 1c95269c8e025f35a3cb194f7f4300f25e64c924
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <method />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Unittests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-<<<<<<< HEAD
-      <module name="fastcodesignlogo" />
-=======
-      <module name="fastcodesign-moving-logo-twin" />
->>>>>>> 1c95269c8e025f35a3cb194f7f4300f25e64c924
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Doctests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-<<<<<<< HEAD
-      <module name="fastcodesignlogo" />
-=======
-      <module name="fastcodesign-moving-logo-twin" />
->>>>>>> 1c95269c8e025f35a3cb194f7f4300f25e64c924
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Attests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-<<<<<<< HEAD
-      <module name="fastcodesignlogo" />
-=======
-      <module name="fastcodesign-moving-logo-twin" />
->>>>>>> 1c95269c8e025f35a3cb194f7f4300f25e64c924
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method />
-    </configuration>
-<<<<<<< HEAD
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.logo" />
-      <item index="1" class="java.lang.String" itemvalue="Python.multi_color_in_line" />
-      <item index="2" class="java.lang.String" itemvalue="Python.color_cycle" />
-      <item index="3" class="java.lang.String" itemvalue="Python.gradient_1" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in D:\fastcodesignlogo" />
-    </list>
-    <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.logo" />
-        <item index="1" class="java.lang.String" itemvalue="Python.gradient_1" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in D:\fastcodesignlogo" />
-        <item index="3" class="java.lang.String" itemvalue="Python.multi_color_in_line" />
-        <item index="4" class="java.lang.String" itemvalue="Python.color_cycle" />
-=======
-    <list size="2">
-      <item index="0" class="java.lang.String" itemvalue="Python.make_animation" />
-      <item index="1" class="java.lang.String" itemvalue="Python.logo" />
-    </list>
-    <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python.logo" />
-        <item index="1" class="java.lang.String" itemvalue="Python.make_animation" />
->>>>>>> 1c95269c8e025f35a3cb194f7f4300f25e64c924
-      </list>
-    </recent_temporary>
+  <component name="RunManager">
+    <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-<<<<<<< HEAD
-      <changelist id="8c7ed0f1-1d75-4e36-841f-82a97e660ac8" name="Default" comment="" />
-      <created>1407239849825</created>
-      <updated>1407239849825</updated>
-=======
-      <changelist id="f57cb2ee-f588-45b4-a645-5c93fc27b519" name="Default" comment="" />
-      <created>1410971137881</created>
-      <updated>1410971137881</updated>
->>>>>>> 1c95269c8e025f35a3cb194f7f4300f25e64c924
+      <changelist id="d97993f4-23de-4105-818c-a23165e7cab8" name="Default" comment="" />
+      <created>1411044435482</created>
+      <updated>1411044435482</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-<<<<<<< HEAD
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="1" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="false" />
-=======
-    <frame x="-4" y="-4" width="1374" height="776" extended-state="0" />
-    <editor active="true" />
->>>>>>> 1c95269c8e025f35a3cb194f7f4300f25e64c924
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-<<<<<<< HEAD
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19256505" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.398374" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.09593496" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-=======
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24944155" sideWeight="0.7009494" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24981412" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29905063" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
->>>>>>> 1c95269c8e025f35a3cb194f7f4300f25e64c924
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -649,44 +126,12 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
-    <layout-to-restore>
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-<<<<<<< HEAD
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39899832" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-=======
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
->>>>>>> 1c95269c8e025f35a3cb194f7f4300f25e64c924
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-<<<<<<< HEAD
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2141264" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23089431" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
       <collection />
     </option>
   </component>
-=======
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24944155" sideWeight="0.6708861" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32911393" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-    </layout-to-restore>
-  </component>
->>>>>>> 1c95269c8e025f35a3cb194f7f4300f25e64c924
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
@@ -696,395 +141,18 @@
     </option>
   </component>
   <component name="XDebuggerManager">
-<<<<<<< HEAD
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/gradient_1.py</url>
-          <line>11</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-      <option name="time" value="3" />
-    </breakpoint-manager>
-=======
     <breakpoint-manager />
->>>>>>> 1c95269c8e025f35a3cb194f7f4300f25e64c924
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/logo.py">
+    <entry file="file://$PROJECT_DIR$/multi_colors_in_single_line.py">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state line="226" column="9" selection-start="7392" selection-end="7392" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3861">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gradient_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="0" selection-start="1459" selection-end="1459" vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="702">
+        <state line="1" column="0" selection-start="1" selection-end="1" vertical-scroll-proportion="0.015280136" vertical-offset="4" max-vertical-offset="1222">
           <folding>
-            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#1#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Python27/Lib/site-packages/matplotlib/pyplot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1021" column="0" selection-start="32295" selection-end="32295" vertical-scroll-proportion="0.0" vertical-offset="13273" max-vertical-offset="47827">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/multi_color_in_line.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="87" column="15" selection-start="2797" selection-end="2797" vertical-scroll-proportion="0.0" vertical-offset="1131" max-vertical-offset="1612">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/color_cycle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="73" selection-start="242" selection-end="242" vertical-scroll-proportion="0.0" vertical-offset="117" max-vertical-offset="273">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/another_multi_color_line_algo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="17" selection-start="1100" selection-end="1100" vertical-scroll-proportion="0.0" vertical-offset="580" max-vertical-offset="1300">
-          <folding>
-            <marker date="1409266264283" expanded="true" signature="2273:2708" placeholder="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-=======
-        <state line="6" column="88" selection-start="286" selection-end="286" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="3893">
-          <folding>
-            <element signature="e#61#74#0" expanded="true" />
->>>>>>> 1c95269c8e025f35a3cb194f7f4300f25e64c924
-          </folding>
-        </state>
-      </provider>
-    </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/try_JS_animate.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="26" selection-start="60" selection-end="60" vertical-scroll-proportion="0.0" vertical-offset="26" max-vertical-offset="104">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/multi_colors_in_single_line.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="87" column="41" selection-start="2409" selection-end="2410" vertical-scroll-proportion="0.0" vertical-offset="1131" max-vertical-offset="1222">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/codejam/alien_language.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="9" selection-start="158" selection-end="158" vertical-scroll-proportion="0.0" vertical-offset="440" max-vertical-offset="806">
-=======
-    <entry file="file://$PROJECT_DIR$/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="32" selection-start="32" selection-end="32" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="119">
->>>>>>> 1c95269c8e025f35a3cb194f7f4300f25e64c924
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logo.py">
-      <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state line="151" column="35" selection-start="5068" selection-end="5068" vertical-scroll-proportion="0.0" vertical-offset="1898" max-vertical-offset="3224">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/multi_color_in_line.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="106" column="68" selection-start="3294" selection-end="3362" vertical-scroll-proportion="0.0" vertical-offset="1224" max-vertical-offset="1599">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/another_multi_color_line_algo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="17" selection-start="1100" selection-end="1100" vertical-scroll-proportion="0.0" vertical-offset="580" max-vertical-offset="1300">
-          <folding>
-            <marker date="1409266264283" expanded="true" signature="2273:2708" placeholder="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-=======
-        <state line="6" column="0" selection-start="197" selection-end="197" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3876">
-          <folding>
-            <element signature="e#61#74#0" expanded="true" />
->>>>>>> 1c95269c8e025f35a3cb194f7f4300f25e64c924
-          </folding>
-        </state>
-      </provider>
-    </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/try_JS_animate.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="26" selection-start="60" selection-end="60" vertical-scroll-proportion="0.0" vertical-offset="26" max-vertical-offset="104">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/multi_colors_in_single_line.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="87" column="41" selection-start="2409" selection-end="2410" vertical-scroll-proportion="0.0" vertical-offset="1131" max-vertical-offset="1222">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/codejam/alien_language.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="9" selection-start="158" selection-end="158" vertical-scroll-proportion="0.0" vertical-offset="440" max-vertical-offset="806">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="196" column="46" selection-start="6514" selection-end="6514" vertical-scroll-proportion="0.0" vertical-offset="2548" max-vertical-offset="2899">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/try_JS_animate.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="26" selection-start="60" selection-end="60" vertical-scroll-proportion="0.0" vertical-offset="26" max-vertical-offset="104">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/multi_colors_in_single_line.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="87" column="40" selection-start="2409" selection-end="2409" vertical-scroll-proportion="0.0" vertical-offset="829" max-vertical-offset="1222">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/codejam/alien_language.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="806">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="222" column="10" selection-start="7330" selection-end="7330" vertical-scroll-proportion="0.0" vertical-offset="2886" max-vertical-offset="2899">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/try_JS_animate.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="26" selection-start="60" selection-end="60" vertical-scroll-proportion="0.0" vertical-offset="26" max-vertical-offset="104">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/multi_colors_in_single_line.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="87" column="40" selection-start="2409" selection-end="2409" vertical-scroll-proportion="0.0" vertical-offset="829" max-vertical-offset="1222">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/codejam/alien_language.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="806">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="201" column="63" selection-start="6807" selection-end="6807" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2886">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/try_JS_animate.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="26" selection-start="60" selection-end="60" vertical-scroll-proportion="0.0" vertical-offset="26" max-vertical-offset="104">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/codejam/alien_language.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="806">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="201" column="63" selection-start="6807" selection-end="6807" vertical-scroll-proportion="0.0" vertical-offset="2458" max-vertical-offset="2886">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/codejam/alien_language.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="806">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="205" column="84" selection-start="6916" selection-end="6916" vertical-scroll-proportion="0.0" vertical-offset="2483" max-vertical-offset="2860">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/codejam/alien_language.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="806">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="112" column="23" selection-start="3718" selection-end="3718" vertical-scroll-proportion="0.0" vertical-offset="1389" max-vertical-offset="2431">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/codejam/alien_language.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="326" max-vertical-offset="806">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="74" selection-start="1332" selection-end="1332" vertical-scroll-proportion="0.0" vertical-offset="264" max-vertical-offset="806">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/codejam/alien_language.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="326" max-vertical-offset="806">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="44" selection-start="639" selection-end="639" vertical-scroll-proportion="0.0" vertical-offset="260" max-vertical-offset="585">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="8" selection-start="1241" selection-end="1241" vertical-scroll-proportion="0.0" vertical-offset="494" max-vertical-offset="572">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_logo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="9" selection-start="9" selection-end="9" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="153" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/multi_colors_in_single_line.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="87" column="41" selection-start="2409" selection-end="2410" vertical-scroll-proportion="0.0" vertical-offset="698" max-vertical-offset="1209">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/codejam/alien_language.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="9" selection-start="158" selection-end="158" vertical-scroll-proportion="0.0" vertical-offset="440" max-vertical-offset="806">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/try_JS_animate.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="26" selection-start="60" selection-end="60" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="104">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/another_multi_color_line_algo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="17" selection-start="1100" selection-end="1100" vertical-scroll-proportion="0.0" vertical-offset="580" max-vertical-offset="1300">
-          <folding>
-            <marker date="1409266264283" expanded="true" signature="2273:2708" placeholder="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-=======
-    <entry file="file://$PROJECT_DIR$/logo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3672">
-          <folding>
-            <element signature="e#61#74#0" expanded="true" />
->>>>>>> 1c95269c8e025f35a3cb194f7f4300f25e64c924
-          </folding>
-        </state>
-      </provider>
-    </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/color_cycle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="73" selection-start="242" selection-end="242" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="273">
-=======
-    <entry file="file://$PROJECT_DIR$/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="32" selection-start="32" selection-end="32" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="461">
->>>>>>> 1c95269c8e025f35a3cb194f7f4300f25e64c924
-          <folding />
-        </state>
-      </provider>
-    </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/multi_color_in_line.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="87" column="15" selection-start="2797" selection-end="2797" vertical-scroll-proportion="0.0" vertical-offset="1077" max-vertical-offset="1573">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python27/Lib/site-packages/matplotlib/pyplot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1021" column="0" selection-start="32295" selection-end="32295" vertical-scroll-proportion="0.0" vertical-offset="12802" max-vertical-offset="47463">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gradient_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="24" selection-start="474" selection-end="474" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="702">
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-=======
-    <entry file="file://$PROJECT_DIR$/logo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="214" column="56" selection-start="7233" selection-end="7233" vertical-scroll-proportion="0.5179856" vertical-offset="3422" max-vertical-offset="3927">
-          <folding>
-            <element signature="e#61#74#0" expanded="true" />
->>>>>>> 1c95269c8e025f35a3cb194f7f4300f25e64c924
-          </folding>
-        </state>
-      </provider>
-    </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/logo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="209" column="32" selection-start="6884" selection-end="6884" vertical-scroll-proportion="0.13163064" vertical-offset="2585" max-vertical-offset="3094">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-=======
->>>>>>> 1c95269c8e025f35a3cb194f7f4300f25e64c924
   </component>
 </project>
 
