@@ -1,7 +1,7 @@
 fastcodesign-moving-logo-twin
 =============================
 
-Inspired by (fastcompany's)[http://www.fastcodesign.com/] colorful 3D Polygon which gives a brilliant floating object effect. 
+Inspired by [fastcompany's](http://www.fastcodesign.com/) colorful 3D Polygon which gives a brilliant floating object effect. 
 It awes me as it shows how our brain works, a set of moving lines becomes the outlines of a moving 3D object! 
 now that's creativity Mr.Brain.
 
