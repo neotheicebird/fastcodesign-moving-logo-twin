@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/fastcodesignlogo.iml" filepath="$PROJECT_DIR$/.idea/fastcodesignlogo.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/fastcodesign-moving-logo-twin.iml" filepath="$PROJECT_DIR$/.idea/fastcodesign-moving-logo-twin.iml" />
+>>>>>>> 1c95269c8e025f35a3cb194f7f4300f25e64c924
     </modules>
   </component>
 </project>
