@@ -9,7 +9,7 @@ This project is an attempt to create something similar.
 
 Here is the show
 ================
-A sample JS rendering of a polygon can be viewed here:
+A sample JS rendering of moving polyhedron can be viewed here:
 
 http://neotheicebird.github.io/fastcodesign-moving-logo-twin/
 
